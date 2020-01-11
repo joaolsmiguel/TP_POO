@@ -1,0 +1,25 @@
+carregaP <nomeFicheiro>
+carregaC <nomeFicheiro>
+carregaA <nomeFicheiro>
+cria <letraTipo> <dados do objeto>
+cria_p <nome> <tipo>
+cria_c <marca> <vel_max> <cap_max> <modelo>
+cria_a <nome> <comprimento> <max_carros>
+apaga <letraTipo> <Identificador>
+entranocarro <letraCarro> <nomePiloto>
+saidoCarro <letraCarro>
+lista
+savedgv <nome>
+loaddgv <nome>
+deldgv <nome>
+campeonato <A1> <A2> ... <An>
+listacarros
+carregabat <letraCarro> <Q>
+carregatudo
+corrida
+acidente <letraCarro>
+stop <nomePiloto>
+destroi <letraCarro>
+passatempo <n>
+log
+pontuacao

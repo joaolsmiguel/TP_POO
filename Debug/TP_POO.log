@@ -1,0 +1,10 @@
+﻿  Piloto.cpp
+D:\TP_POO\Carro.h(39,44): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\TP_POO\Carro.h(40,41): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\TP_POO\Piloto.cpp(34,104): warning C4018: '<': signed/unsigned mismatch
+D:\TP_POO\Piloto.cpp(44,65): warning C4018: '<': signed/unsigned mismatch
+D:\TP_POO\Piloto.cpp(45,47): warning C4018: '<': signed/unsigned mismatch
+D:\TP_POO\Piloto.cpp(84,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\TP_POO\Piloto.cpp(118,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\TP_POO\Piloto.cpp(138,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  TP_POO.vcxproj -> D:\TP_POO\Debug\TP_POO.exe
